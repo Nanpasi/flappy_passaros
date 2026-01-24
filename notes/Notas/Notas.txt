@@ -1,0 +1,15 @@
+TELA DO JOGO
+Fundo do jogo
+Backgrounds
+Criar as layers do background e colocar o background na layer respectiva
+
+Resolução do jogo
+
+PLAYER
+
+
+TELA INICIAL
+
+
+
+TELA DA LOJA

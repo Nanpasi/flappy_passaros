@@ -1,14 +1,79 @@
-TELA DO JOGO
+- TELA DO JOGO
 Fundo do jogo
 Backgrounds
 Criar as layers do background e colocar o background na layer respectiva
 
 Resolução do jogo
 
-PLAYER
+- PLAYER
+tem que começar caindo
+Subir ao bater a asa (apertar espaço)
+Bater nos obstáculos
 
+- OBSTÁCULOS
+ÁRVORE
+importar a sprite
+criar o objeto
+criar a layer
+fazer ele ir para a esquerda
+fazer o player bater nele e avisar que bateu nele
+
+Efeito de morte do player
+pare tudo
+	player não consegue bater asas
+	o background vai parar
+	o inimigo vai parar
+	
+PÁSSARO
+importar sprite
+criar objeto e layer
+ir para a esquerda
+colidir com o player
+
+GERAÇÃO PROCEDURAL DO LEVEL
+ÁRVORE
+de tempos em tempos ele vai criar uma árvore em uma posição específica
+
+PÁSSAROS!
+Intervalo de criação dos pássaros seja um pouco maior que o das árvores
+
+SISTEMA DE PONTOS
+Ganho pontos enquanto estiver vivo
+Eu quero ganhar pontos o tempo todo se eu não perdi o jogo
+
+SISTEMA DE LEVELS
+Faça o jogo desenhar a sprite do level no número certo
+No meio da tela
+
+Ganhando levels conforme ganhamos pontos
+1 - 100
+2 - 250
+3 - 500
+4 - 800
+5 - 1200
+6 - 1800
+7 - 2500
+8 - 3500
+9 - 5000
+ARRAYS
+
+Conforme o jogo sobe de level, eu aumento a velocidade de todo mundo
+
+SISTEMA DE COLETÁVEIS
+Variáveis dos coletáveis - FEITO
+Sprites dos coletáveis - FEITO
+Exibir a quantidade de coletáveis na tela - FEITO
+Criar a layer dos coletáveis - FEITO
+Criar o objeto coletável e fazer ele ir para a esquerda - FEITO
+Quando o player colidir com o coletável, ele some e eu ganho um coletável - FEITO
+
+Criando um efeito de destruição do coletável
+Quero que, ao colidir, o coletável cresca um pouco, suba um pouco e fique transparente, depois some
+
+Desenhar o ícone dos coletáveis do lado da quantidade de coletáveis
 
 TELA INICIAL
+
 
 
 
